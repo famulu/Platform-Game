@@ -1,6 +1,6 @@
 # Platform-Game
 A platform game based on Dark Blue built using JavaScript
-
+(Platform-Game.png)
 Use ⬅️ and ➡️ keys to move the player left and right
 
 Use ⬆️ to make the player jump
